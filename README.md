@@ -12,9 +12,9 @@ When you left click on mouse game is started
 ![Screenshot (328)](https://github.com/gauravsane/Survive_bird/assets/68939352/fb377845-f4da-45f6-8055-7fcd27a2d1b0)
 
 <h1 align="center">Hi 👋, I'm Gaurav Sane</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Mumbai</h3>
 
-- 🌱 I’m currently learning **Full Stack Development Course**
+- 🌱 I’m currently learning **Full Stack Web Development Course**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gauravsane](https://github.com/gauravsane)
 
